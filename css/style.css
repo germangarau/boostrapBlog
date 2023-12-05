@@ -1,0 +1,533 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+section, div{
+    border: 1px solid #ffffff;
+}
+
+.background1{
+    background-image: url('../assets/images/foto1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 484px;
+    color: #ffffff;
+}
+
+.bahram{
+    background-image: url('../assets/images/Bahram.png');
+    width: 99px;
+    height: 29px;
+    flex-shrink: 0;
+}
+
+.navletters{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.navbar-light .navbar-nav .boton1 .nav-link {
+    border-radius: 10px;
+    background: #FF5480;
+    color: #FFF;
+    text-align: center;
+}
+
+.hola {
+    color: #111210;
+    font-size: 24px;
+    font-style: normal;
+    text-align: left;
+}
+
+.hola1 {
+    color: #9B9B9B;
+    font-size: 16px;
+    font-style: normal;
+    text-align: right;
+}
+
+.noticia1 {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.noticia2 {
+    color: #FFF;
+    font-size: 28px;
+    font-style: normal;
+}
+
+.noticia3 {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.dia1 {
+    color: #9B9B9B;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.texto1 {
+    color: #111210;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.texto2 {
+    color: #FF5480;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.row > .row{
+    padding: 0;
+    margin:0;
+}
+
+.Reading-lists{
+    color: #000;
+    font-size: 36px;
+    font-style: normal;
+}
+
+.View-all{
+    color: #FF5480;
+    font-size: 16px;
+    font-style: normal;
+    text-align: end;
+}
+
+.lupa{
+    text-align: center;
+}
+
+.background2{
+    background-image: url('../assets/images/foto-fila-1.png');
+    background-size: cover;
+    height: 350px;
+}
+
+.background3{
+    background-image: url('../assets/images/foto-fila-2.png');
+    background-size: cover;
+    height: 350px;
+}
+
+.background4{
+    background-image: url('../assets/images/foto-fila-3.png');
+    background-size: cover;
+    height: 350px;
+}
+
+.background5{
+    background-image: url('../assets/images/foto-fila-4.png');
+    background-size: cover;
+    height: 350px;
+}
+
+.background6{
+    background-image: url('../assets/images/foto-fila-5.png');
+    background-size: cover;
+    height: 350px;
+}
+
+.rounded-4{
+    border-radius: 10px;
+}
+
+.ui-design {
+    color: #111210;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.15px;
+    text-align: center;
+}
+
+.ux-design {
+    color: #FF5480;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.15px;
+    text-align: center;
+}
+
+.View-all-2{
+    color: #9B9B9B;
+    font-size: 16px;
+    font-style: normal;
+    text-align: end;
+}
+
+.chap6{
+    background-image: url('../assets/images/chap6_ent_sprint-1920x1080.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.sombra{
+    width: 80px;
+    height: 350px;
+    box-shadow: 0 0 20px #ccc;
+}
+
+.sombra2{
+    height: 169px;
+    box-shadow: 0 0 20px #ccc;
+}
+
+.sombra3{
+    box-shadow: 0 0 20px #ccc;
+}
+
+.freelancing{
+    color: #111210;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.resource{
+    color: #FF5480;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.chap4{
+    background-image: url('../assets/images/chap4_ent_sprint-1920x1080.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 359px;
+}
+
+.noticia4 {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.noticia4-1 {
+    color: #9B9B9B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.noticia5 {
+    color: #000;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.chap1{
+    background-image: url('../assets/images/chap1_ent_sprint-1920x1080.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.ch2{
+    background-image: url('../assets/images/Ch2-Design-Sprints-Final-1764x992.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.designbetter{
+    background-image: url('../assets/images/designbetter_website_book_assets_illustrations_principlesofproductdesign_breaktheblackbox-1920x1081.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.footer1{
+    background-image: url('../assets/images/Group\ 13.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.footer2{
+    text-align: center;
+}
+
+.footer3{
+    color: #9B9B9B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.new{
+    color: #000;
+    font-size: 36px;
+    font-style: normal;
+}
+
+.bajo-new{
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.home-new{
+    color: #C8C8C8;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.home-new1{
+    color: #9B9B9B;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.img1{
+    background-image: url('../assets/images/img1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img2{
+    background-image: url('../assets/images/img2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img3{
+    background-image: url('../assets/images/img3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img4{
+    background-image: url('../assets/images/img4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img5{
+    background-image: url('../assets/images/img5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img6{
+    background-image: url('../assets/images/img6.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img7{
+    background-image: url('../assets/images/img7.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img8{
+    background-image: url('../assets/images/img8.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img9{
+    background-image: url('../assets/images/img9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img10{
+    background-image: url('../assets/images/img10.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img11{
+    background-image: url('../assets/images/img11.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img12{
+    background-image: url('../assets/images/img12.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img13{
+    background-image: url('../assets/images/img13.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.img14{
+    background-image: url('../assets/images/img14.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 559px;
+}
+
+.bombilla{
+    height: 20px;
+}
+
+.get-free{
+    color: #111210;
+    font-size: 48px;
+    font-style: normal;
+    text-align: center;
+}
+
+.img15{
+    background-image: url('../assets/images/img15.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 1075px;
+}
+
+.wp-page-grey{
+    color: #4A4A4A;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.wp-page-blue{
+    color: #27AEFF;    
+    font-size: 20px;
+    font-style: normal;
+}
+
+.img16{
+    background-image: url('../assets/images/img16.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 1075px;
+}
+
+.negrita{
+    color: #000000;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.seguido-negrita{
+    color: #605959;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.img17{
+    background-image: url('../assets/images/img17.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 1075px;
+}
+
+.img18{
+    background-image: url('../assets/images/img18.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 1075px;
+}
+
+.wp-page-builder{
+    color: #9283E0;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.tomas{
+    color: #111210;
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+}
+
+.wp-page-grey16{
+    color: #4A4A4A;
+    font-size: 16px;
+    font-style: normal;
+}
+
+.wp-page-blue16{
+    color: #27AEFF;    
+    font-size: 16px;
+    font-style: normal;
+}
+
+.burcador {
+    position: relative;
+    top: 15px;
+    left: -41px;
+    padding-inline: 84px;
+    padding-top: 31px;
+    background-color: #FF5480;
+    color: #FFF;
+}
+
+.buscador1 {
+    position: relative;
+    top: 0px;
+    left: 30px;
+}
+
+.social-madia{
+    background-image: url('../assets/icons/Social-Media.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 475px;
+}
+
+.tomas-foto{
+    border-radius: 50px;
+}
+
+.mb-10{
+    margin-bottom: 200px;
+}
